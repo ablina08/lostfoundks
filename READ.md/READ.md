@@ -14,7 +14,7 @@ Git
 GitHub
 
 ## Autori
-Emri Mbiemri
+Albina Shabanaj
 Universiteti i Mitrovicës
 2026
 
