@@ -46,3 +46,20 @@ City: Pristina
 - `User.java`: modelon përdoruesin që raporton sendet.
 - `Item.java`: modelon sendet e humbura ose të gjetura.
 - `Main.java`: shembull i funksionimit të programit.
+
+# Lost & Found KS
+
+Projekt semestral – Java console application për menaxhimin e items të humbura dhe claims.
+
+## Funksionalitetet
+- Shto User
+- Shto Item
+- Shiko të gjithë Items
+- Kërko / filter Items
+- Claim Item
+- Shiko Claims
+
+## Run
+- Import në Visual Studio
+- Run `Main.java`
++
